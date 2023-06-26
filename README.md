@@ -1,1 +1,5 @@
-# Sentiment16
+- Developed a Machine Learning model using Python that can effectively analyze the sentiments and emotions for a given topic.
+- Used the real-time data extracted from random accounts on twitter using Twitter API. Preprocessed and cleaned the extracted tweets for effective analysis.
+- Employed algorithms of Natural Language Processing (NLP) to classify tweets as positive, negative, or neutral.
+- Trained and tested the developed model using various ML algorithms such as Naive-Bayes and Random forest classication, and achieved an accuracy of 75 %.
+- Visualized the achieved results using various python vizualtion libraries such as Matplotlib and Seaborn.
